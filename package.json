@@ -1,0 +1,24 @@
+{
+  "name": "AzureWebJob",
+  "version": "0.0.1",
+  "description": "A simple app to run as an Azure web job",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thewazir/azure_webjob.git"
+  },
+  "keywords": [
+    "Azure",
+    "Webjob",
+    "Nodejs"
+  ],
+  "author": "Omer Wazir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewazir/azure_webjob/issues"
+  },
+  "homepage": "https://github.com/thewazir/azure_webjob"
+}
